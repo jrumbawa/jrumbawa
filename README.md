@@ -7,3 +7,8 @@
 - Goal for 2021: Land a full time developer job!
 
 
+## Connect with me here,
+
+[LinkedIn](https://linkedin.com/in/jrumbawa)
+[Twitter](https://twitter.com/jrumbawa_)
+[Instagram](https://instagram.com/jrumbawa)
