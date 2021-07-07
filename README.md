@@ -5,6 +5,8 @@
   <a href="https://instagram.com/jrumbawa">Instagram</a> 
 </p>
 
+---
+
 ## Front End Web Developer 💻
 - Currently creating my portfolio site! 
 - Currently learning responsive web design
