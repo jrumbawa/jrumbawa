@@ -1,4 +1,4 @@
-### Hi there, I'm Jomar Rumbawa 👋
+<h3 align="center">Hi there, I'm Jomar Rumbawa 👋</h3>
 <p align="center">
   <a href="https://linkedin.com/in/jrumbawa">LinkedIn • </a> 
   <a href="https://twitter.com/jrumbawa_">Twitter • </a> 
