@@ -1,4 +1,9 @@
 ### Hi there, I'm Jomar Rumbawa 👋
+<p align="center">
+[LinkedIn](https://linkedin.com/in/jrumbawa) •
+[Twitter](https://twitter.com/jrumbawa_) •
+[Instagram](https://instagram.com/jrumbawa)
+</p>
 
 ## Front End Web Developer 💻
 - Currently creating my portfolio site! 
@@ -8,11 +13,9 @@
 
 ---
 
-## Connect with me here,
+## Connect with me here
 
-[LinkedIn](https://linkedin.com/in/jrumbawa)
-[Twitter](https://twitter.com/jrumbawa_)
-[Instagram](https://instagram.com/jrumbawa)
+
 
 ---
 
