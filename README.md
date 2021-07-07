@@ -1,8 +1,8 @@
 ### Hi there, I'm Jomar Rumbawa 👋
 <p align="center">
-[LinkedIn](https://linkedin.com/in/jrumbawa) •
-[Twitter](https://twitter.com/jrumbawa_) •
-[Instagram](https://instagram.com/jrumbawa)
+  <a href="https://linkedin.com/in/jrumbawa">LinkedIn • </a> 
+  <a href="https://twitter.com/jrumbawa_">Twitter • </a> 
+  <a href="https://instagram.com/jrumbawa">Instagram</a> 
 </p>
 
 ## Front End Web Developer 💻
